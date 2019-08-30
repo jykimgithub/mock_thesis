@@ -5,3 +5,17 @@ dia;jd;lfasfd
 =======
 Game of Thrones is really terrible 
 >>>>>>> ff1ac8468a8891db0cfab2072825993c7893c6ae
+
+git push --set-upstream origin master
+	
+
+ls
+
+git status 
+
+git log --pretty=online
+
+cd august
+
+
+
